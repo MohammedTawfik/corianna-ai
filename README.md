@@ -6,6 +6,8 @@
 
 1- use the following command to install clerk package for NextJS `npm i @clerk/nextjs@4.29.12`
 
+**Very Important Note** when using **_src_** folder make sure that **middleware.ts** file is created inside the **src** folder
+
 ### Prisma
 
 - Used as an ORM for JavaScript and TypeScript
